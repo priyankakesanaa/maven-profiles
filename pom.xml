@@ -8,13 +8,13 @@
 	<version>0.0.1</version>
 	
 	<name>Maven Web Application</name>
-	<url>http://winnertechnologies.com</url>
+	<url>http://Techacademics.com</url>
 	
 	<description>Maven Web Profiles Project</description>
 
 	<organization>
-		<name>Winner Technologies</name>
-		<url>http://winnertechnologies.com/</url>
+		<name>Techacademics.com</name>
+		<url>http://Techacademics.com/</url>
 	</organization>
 
 	<properties>
@@ -89,12 +89,12 @@
             <snapshotRepository>
                <id>snapshots</id>
                <name>fc933276c210-snapshots</name>
-               <url>http://ec2-3-93-195-212.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
+               <url>http://18.188.92.178:8081/repository/Profiles-Snapshot/</url>
          </snapshotRepository>
             <repository>
                <id>central</id>
                <name>fc933276c210-releases</name>
-               <url>http://ec2-3-93-195-212.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
+               <url>http://18.188.92.178:8081/repository/Profiles-Release/</url>
             </repository>
        </distributionManagement>	
 
